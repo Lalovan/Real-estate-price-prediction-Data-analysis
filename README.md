@@ -50,7 +50,8 @@ The analysis is presented in Jupyter notebooks to allow transparent, interactive
 ├── analysis/
 │   ├── 01_data_cleaning.ipynb
 │   ├── 02_data_quality.ipynb
-│   ├── 03_EDA.ipynb
+│   ├── 02a_test_missingness.ipynb
+│   ├── 03_eda.ipynb
 │   └── 04_correlation_analysis.ipynb
 ├── data/
 │   ├── processed/
