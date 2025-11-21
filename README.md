@@ -101,7 +101,7 @@ source venv/bin/activate  # Windows: venv\Scripts\activate`
 - Kristin Nuyens
 - Nancy Van den Steen
 - Bryan Maina
-- Anna Lalova
+- Anna Lalova - eda, testing missingness, correlation analysis;
 
 # ⏰ Timeline #
 
